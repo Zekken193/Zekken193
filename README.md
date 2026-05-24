@@ -1,29 +1,23 @@
 # Zekken
 
-**Full-Stack Developer | Philippines**
-
-Welcome to my GitHub profile! I'm a passionate developer specializing in building scalable web and mobile applications.
+**Full-Stack Software Developer** | Philippines
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎯 Full-stack developer with expertise in modern web technologies
-- 📱 Experienced in cross-platform mobile development
-- 🚀 Passionate about clean code and best practices
-- 🌍 Based in the Philippines
+I am a results-driven full-stack developer with expertise in designing and implementing scalable web and mobile applications. With a strong foundation in both frontend and backend technologies, I focus on delivering clean, maintainable code and innovative solutions that meet business objectives.
 
----
-
-## 🔗 Connect With Me
-
-- **GitHub**: [github.com/Zekken193](https://github.com/Zekken193)
+- **Specialization:** Full-stack web and mobile development
+- **Focus:** Scalability, performance optimization, and best practices
+- **Approach:** Agile methodology with emphasis on code quality and documentation
+- **Based:** Philippines
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-**Languages:**
+**Languages**
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
@@ -32,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in buildin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </div>
 
-**Frontend:**
+**Frontend Development**
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
@@ -41,32 +35,53 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in buildin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
 </div>
 
-**Backend:**
+**Backend Development**
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Framework" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
 </div>
 
-**Database:**
+**Database & Tools**
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## Professional Highlights
+
+- Developed and deployed multiple production-ready applications serving diverse business domains
+- Implemented responsive, user-centric interfaces with modern frontend frameworks
+- Architected scalable backend systems with emphasis on performance and reliability
+- Collaborated with cross-functional teams to deliver projects on schedule and within scope
+- Maintained code quality through testing, documentation, and continuous improvement practices
+
+---
+
+## GitHub Analytics
 
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=zekken)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 📂 Notable Work
+## Featured Projects
 
-*Check out my repositories for detailed projects and contributions.*
+Explore my repositories to see detailed implementations, architecture patterns, and technical solutions across various domains.
 
 ---
 
-**Last Updated:** 2026-02-21
+## Let's Connect
+
+I'm always interested in discussing technology, collaborating on innovative projects, or exploring new opportunities.
+
+- **GitHub:** [github.com/Zekken193](https://github.com/Zekken193)
+- **Open to:** Full-time opportunities • Freelance projects • Technical collaborations
+
+---
+
+_Last updated: May 2026_
