@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a results-driven full-stack developer with expertise in designing and implementing scalable web and mobile applications. With a strong foundation in both frontend and backend technologies, I focus on delivering clean, maintainable code and innovative solutions that meet business objectives.
+I am a results-driven full-stack developer with expertise in designing and implementing scalable web and mobile applications. With a strong foundation in both frontend and backend technologies, I focus on delivering high-quality solutions that drive business value.
 
 - **Specialization:** Full-stack web and mobile development
 - **Focus:** Scalability, performance optimization, and best practices
@@ -63,11 +63,7 @@ I am a results-driven full-stack developer with expertise in designing and imple
 
 ## GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/Zekken193">
-    <img src="https://github-profile-trophy.vercel.app/?username=Zekken193&theme=onedark&column=3&row=2" alt="GitHub Trophies"/>
-  </a>
-</p>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Zekken193&theme=onedark&column=3&row=2&no-frame=true)](https://github.com/Zekken193)
 
 ---
 
